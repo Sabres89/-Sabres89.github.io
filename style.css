@@ -10,7 +10,11 @@ main {
 }
 h1 {
 	margin: 0 0 1em 0;
-	font-style: underline;
+	text-decoration: underline;
+}
+
+h2 {
+	text-decoration: underline;
 }
 p {
 	margin: 0 0 1em 0;
