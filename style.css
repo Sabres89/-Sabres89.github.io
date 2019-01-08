@@ -11,10 +11,12 @@ main {
 h1 {
 	margin: 0 0 1em 0;
 	text-decoration: underline;
+	text-decoration-color: white;
 }
 
 h2 {
 	text-decoration: underline;
+	text-decoration-color: white;
 }
 p {
 	margin: 0 0 1em 0;
